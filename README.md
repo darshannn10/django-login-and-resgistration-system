@@ -4,18 +4,6 @@ Django is an open-source python web framework used for rapid development, pragma
 
 Django by default provides an authentication system configuration. User objects are the core of the authentication system.today we will implement Django’s authentication system.
 
-django based login,logout and register system django docs on auth system https://docs.djangoproject.com/en/2.2/topics/auth/default/
+django based login,logout and register system django docs on auth system 
+https://docs.djangoproject.com/en/2.2/topics/auth/default/
 
-Virtualenv & Dependencies
-create a virtualenv and run requirements.txt
-virtualenv
-
-pip install virtualenv
-what is virtual environment ?
-A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. This is one of the most important tools that most of the Python developers use.
-read more...
-
-to run requirements.txt
-
-$ pip install -r requirements.txt
-here env/ folder contains all dependencies
